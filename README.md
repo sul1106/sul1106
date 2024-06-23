@@ -12,4 +12,7 @@ LinkedIn: www.linkedin.com/in/sulagna-mitra-bd110604
 Email: sulagna.mitra1106004@gmail.com
 - 📫 How to reach me:
   
-  [<img display:block width=20px height=20px src="https://tl.vhv.rs/dpng/s/101-1015960_linkedin-icon-hd-png-download.png">](https://www.linkedin.com/in/sulagna-mitra-bd110604/)
+  [<img width=22px height=22px src="https://tl.vhv.rs/dpng/s/101-1015960_linkedin-icon-hd-png-download.png">](https://www.linkedin.com/in/sulagna-mitra-bd110604/)
+  [<img width=22px height=22px src="https://tl.vhv.rs/dpng/s/34-342497_instagram-icon-png-2019-transparent-png.png">](https://www.instagram.com/sul_1106/)
+  [<img width=22px height=22px src="https://tl.vhv.rs/dpng/s/409-4091178_material-design-mail-icon-png-download-mail-svg.png">][<a href="mailto:sulagna.mitra11062004@gmail.com">]
+  
