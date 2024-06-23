@@ -11,4 +11,4 @@ I also have a very strong base in Java and I am looking forward to hone my skill
 LinkedIn: www.linkedin.com/in/sulagna-mitra-bd110604
 Email: sulagna.mitra1106004@gmail.com
 - 📫 How to reach me:
-  [<img src="(https://tl.vhv.rs/dpng/s/101-1015960_linkedin-icon-hd-png-download.png)">](https://www.linkedin.com/in/sulagna-mitra-bd110604/)
+  [<img src="https://tl.vhv.rs/dpng/s/101-1015960_linkedin-icon-hd-png-download.png">](https://www.linkedin.com/in/sulagna-mitra-bd110604/)
