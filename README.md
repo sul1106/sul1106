@@ -13,7 +13,7 @@ I also have a very strong base in Java and I am looking forward to hone my skill
 - ⚡ Fun fact: I love poetry!!
 
 
-============================================================================================
+========================================================================================
 
 ##*My tech stack*
 --------------------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ I also have a very strong base in Java and I am looking forward to hone my skill
 [<img width=30px height=30px alt-text="JAVA LOGO"  src="https://www.adm.ee/wordpress/wp-content/uploads/2023/08/JAVA.png">](https://www.java.com/en/)
 [<img width=30px height=30px alt-text="PYTHON LOGO" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">](https://www.python.org/)
 
-============================================================================================
+========================================================================================
 
 
   ##*✨Connect With Me*:
