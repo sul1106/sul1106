@@ -1,6 +1,6 @@
 
 ![Green Geometric Digital Marketer LinkedIn Banner](https://github.com/sul1106/sul1106/assets/136924369/9e129233-4c56-4f3f-9e74-bb7e2c595406)
-##*✨About Me*
+*✨About Me*
 -------------------------------------------------------------------------------------------
 Hi there 👋My name is Sulagna Mitra and I am currently studying Computer Science and Engineering in Institute of Technical Education and Research, Bhubaneshwar.
 
@@ -15,7 +15,7 @@ I also have a very strong base in Java and I am looking forward to hone my skill
 
 ========================================================================================
 
-##*My tech stack*
+*My tech stack*
 --------------------------------------------------------------------------------------------
 [<img width=30px height=30px alt-text="HTML LOGO" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">](https://www.w3schools.com/html/)
 [<img width=30px height=30px alt-text="CSS LOGO" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png">](https://www.w3schools.com/css/)
@@ -30,7 +30,7 @@ I also have a very strong base in Java and I am looking forward to hone my skill
 ========================================================================================
 
 
-  ##*✨Connect With Me*:
+  *✨Connect With Me*:
   ------------------------------------------------------------------------------------------
   [<img width=27px height=27px src="https://tl.vhv.rs/dpng/s/101-1015960_linkedin-icon-hd-png-download.png">](https://www.linkedin.com/in/sulagna-mitra-bd110604/)
   [<img width=27px height=27px src="https://tl.vhv.rs/dpng/s/34-342497_instagram-icon-png-2019-transparent-png.png">](https://www.instagram.com/sul_1106/)
